@@ -52,7 +52,7 @@ This is a widely used teaching dataset. I did not verify its original source or 
 ## How to Run
 1. Clone the repo.
 2. Install the libraries: `pip install pandas numpy scipy matplotlib`
-3. Open `chipotle_guac_analysis.ipynb` and run all cells in order. The data loads directly from the URL above.
+3. Open `chipotle_guac_hypothesis.ipynb` and run all cells in order. The data loads directly from the URL above.
 
 ## Author
 Suprajaa Asaithambi | [LinkedIn](https://www.linkedin.com/in/suprajaa-asaithambi/)
